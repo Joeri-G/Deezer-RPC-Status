@@ -1,0 +1,14 @@
+{
+  "Discord": {:
+    "client_id": "<YOUR DISCORD CLIENT ID>"
+  },
+  "Deezer": {
+    "app_secret": "<DEEZER APP SECRET>",
+    "app_id": "<DEEZER APP ID>",
+    "permissions": "basic,email,listening_history,offline_access",
+    "access_token": "<WILL BE GENERATED AFTER LOGIN>"
+  },
+  "auth_server": {
+    "server_port": 7747,
+  }
+}
